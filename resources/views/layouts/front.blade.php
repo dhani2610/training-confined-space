@@ -3,6 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="b8T_twt23_-gL4Yfsr1acJAQ0SMIXHFsrOcNmRxjiX4" />
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F7FHDNK0HY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F7FHDNK0HY');
+    </script>
+
     <title>@yield('title', 'Training Confined Space (K3 Ruang Terbatas) | Sertifikasi Kemnaker RI & BNSP')</title>
     <meta name="description" content="@yield('meta_description', 'Pusat pembinaan, bimbingan teknis, dan sertifikasi resmi K3 Confined Space (Ruang Terbatas) Muda, Madya, Utama, dan Penyelamat (Rescue) standar Kemnaker RI dan BNSP.')">
     <link rel="preconnect" href="https://fonts.googleapis.com">
